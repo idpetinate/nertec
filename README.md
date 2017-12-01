@@ -1,0 +1,2 @@
+# nertec
+Nerd Tecnológico
